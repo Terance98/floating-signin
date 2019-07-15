@@ -1,2 +1,2 @@
 # floating-signin
-This is a test for the bootstrap template
+This is a bootstrap template for a login page.
