@@ -1,2 +1,2 @@
 # floating-signin
-This is a bootstrap template for a login page.
+A very beautiful floating sign in template from the bootstrap templates. 
